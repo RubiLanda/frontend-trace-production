@@ -1,0 +1,1 @@
+var e={medico:`Médico`,automotriz:`Automotriz`,aeroespacial:`Aeroespacial`,electrico:`Eléctrico`},t=[`medico`,`automotriz`,`aeroespacial`,`electrico`];export{t as n,e as t};
