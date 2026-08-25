@@ -1,1 +1,0 @@
-import{n as e}from"./http-Db2fmxlo.js";var t={async porViaje(t){return(await e.get(`/seguimiento-viaje/viaje/${t}`)).data},async porEmbarque(t){return(await e.get(`/embarques/${t}/seguimiento`)).data}};export{t};
