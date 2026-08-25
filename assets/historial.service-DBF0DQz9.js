@@ -1,1 +1,0 @@
-import{n as e}from"./http-D1Zy9a4D.js";var t={async listar(t){return e.get(`/embarques`,{query:{tipo:t.tipo,fecha_desde:t.fecha_desde,fecha_hasta:t.fecha_hasta,page:t.page,limit:t.limit}})}};export{t};

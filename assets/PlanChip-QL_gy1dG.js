@@ -1,1 +1,0 @@
-import{L as e,S as t,T as n,n as r,v as i}from"./index-BjkCCrc0.js";var a={class:`plan-chip`},o=r(t({__name:`PlanChip`,props:{label:{}},setup(t){return(r,o)=>(n(),i(`span`,a,e(t.label),1))}}),[[`__scopeId`,`data-v-77ddafe2`]]);export{o as t};

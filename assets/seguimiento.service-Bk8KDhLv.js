@@ -1,0 +1,1 @@
+import{n as e}from"./http-DJEqZD-V.js";var t={async porViaje(t){return(await e.get(`/seguimiento-viaje/viaje/${t}`)).data},async porEmbarque(t){return(await e.get(`/embarques/${t}/seguimiento`)).data}};export{t};
