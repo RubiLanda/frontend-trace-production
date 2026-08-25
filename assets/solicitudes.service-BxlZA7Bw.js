@@ -1,0 +1,1 @@
+import{n as e}from"./http-DJEqZD-V.js";var t={async crear(t){return e.post(`/solicitudes`,{body:t})},async findAll(t){return e.get(`/solicitudes`,{query:t})},async aceptar(t){return e.patch(`/solicitudes/${t}/aceptar`)},async rechazar(t){return e.patch(`/solicitudes/${t}/rechazar`)}};export{t};
